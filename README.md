@@ -1,4 +1,7 @@
 # Reeborgs-World-4
+## In this project, we have to get the robot to the end goal with the walls being different heights
+
+<img width="607" alt="image" src="https://github.com/user-attachments/assets/7a3a52ab-c277-4831-9a02-ee151e6c0bca" />
 
 ```python
 def turn_right():
